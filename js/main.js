@@ -6,19 +6,19 @@
 	var projectsArray = [
 		{
 			"id": "projectTykOperator",
-			"url": "https://github.com/TykTechnologies/tyk-operator"
+			"url": "https://public.tableau.com/app/profile/huzaib.shafi/viz/BikerentingpatterninSoul/Dashboard1"
 		},
 		{
 			"id": "projectCloudixia",
-			"url": "https://ajtima.com"
+			"url": "https://public.tableau.com/app/profile/huzaib.shafi/viz/LighteningstrikesinUSA/Dashboard1"
 		},
 		{
 			"id": "projectServ",
-			"url": "https://www.getserv.io"
+			"url": "https://public.tableau.com/app/profile/huzaib.shafi/viz/DataJobMarketAnalysis_17403452557470/Story1"
 		},
 		{
 			"id": "projectSedkodes",
-			"url": "https://www.youtube.com/channel/UCXR-k7wwwhdovpXXkRitJ_g"
+			"url": "https://public.tableau.com/app/profile/huzaib.shafi/viz/IndvsPakChampionsThrophy2025/Story1"
 		}
 	]
 
