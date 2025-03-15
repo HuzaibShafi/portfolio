@@ -263,6 +263,31 @@
 
 	};
 
+	/* Default styles (for desktop) */
+#colorlib-hero .slides li {
+    background-image: url(images/AdobeStock_518977661.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Adjust background image for smaller screens */
+@media (max-width: 768px) {
+    #colorlib-hero .slides li {
+        background-size: contain; /* Ensures full image is visible */
+        background-position: center top; /* Aligns better on mobile */
+    }
+}
+
+/* Even smaller screens */
+@media (max-width: 480px) {
+    #colorlib-hero .slides li {
+        background-size: cover; /* Adjusts for very small screens */
+        background-position: center; /* Keeps it centered */
+    }
+}
+
+
 	var owlCrouselFeatureSlide = function () {
 		$('.owl-carousel').owlCarousel({
 			animateOut: 'fadeOut',
