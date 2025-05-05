@@ -6,19 +6,19 @@
 	var projectsArray = [
 		{
 			"id": "projectTykOperator",
-			"url": "https://public.tableau.com/app/profile/huzaib.shafi/viz/BikerentingpatterninSoul/Dashboard1"
+			"url": "https://public.tableau.com/app/profile/huzaib.shafi/viz/MarketingCampaignEfficiency/Dashboard"
 		},
 		{
 			"id": "projectCloudixia",
-			"url": "https://public.tableau.com/app/profile/huzaib.shafi/viz/LighteningstrikesinUSA/Dashboard1"
-		},
-		{
-			"id": "projectServ",
 			"url": "https://public.tableau.com/app/profile/huzaib.shafi/viz/DataJobMarketAnalysis_17403452557470/Story1"
 		},
 		{
-			"id": "projectSedkodes",
+			"id": "projectServ",
 			"url": "https://public.tableau.com/app/profile/huzaib.shafi/viz/IndvsPakChampionsThrophy2025/Story1"
+		},
+		{
+			"id": "projectSedkodes",
+			"url": "https://public.tableau.com/app/profile/huzaib.shafi/viz/HRDashboard_17463849361840/HRDashboard"
 		}
 	]
 
